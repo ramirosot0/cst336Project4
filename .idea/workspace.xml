@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b208cd-ca1f-4d2d-8219-a86ada223af8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ejs/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/bin/nodemon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/bin/postinstall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/cli/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/cli/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/exec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/help/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/match.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/signals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/watch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/nodemon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/rules/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/rules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/rules/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/spawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/bus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/clone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/colour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/merge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nodemon/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/c-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/codin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cusmb-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/java-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/python-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/C_Language.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/Java_Language.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/Python_Language.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/languages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1T4zENrgCrkplZPBx6loTIRvjHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b208cd-ca1f-4d2d-8219-a86ada223af8" name="Default Changelist" comment="" />
+      <created>1572734042945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572734042945</updated>
+      <workItem from="1572734044050" duration="5109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
